@@ -12,11 +12,12 @@ The application "FOOD WELL" represents an innovative approach to promoting healt
 
 | Name                          | Student ID  | Path                 |
 | ----------------------------- | ----------- | -------------------- |
-| Kemas Rafly Omar Thoriq       | A181DSX1010 | Mobile Development   |
-| Prasetyo Yermia Damongi       | A364DSX1019 | Mobile Development   |
-| Alfian Dorif Murtadlo         | C305DKX4253 | Cloud Computing      |
-| Ghulam Izzul Fuad             | C181DSX0601 | Cloud Computing      |
-| Muhammad Fadel Akbar Putra    | M181DSX1334 | Machine Learning     |
-| Naziva Septian                | M309DSY1326 | Machine Learning     |
+| Muhammad Rifva Maulana        | M009D4KY2424 | Machine Learning    |
+| Wilcent                       | M014D4KY3130 | Machine Learning    |
+| Ahmad Sharmy Essalam MM       | C004D4KY0070 | Cloud Computing     |
+| Mohammad Farhan               | C148D4NY1366 | Cloud Computing     |
+| Joefins Elradhoti Situmorang  | C553D4KY1068 | Cloud Computing     |
+| Agus Susilo                   | A152D4KY3712 | Mobile Development  |
+| Septia Prastika               | A412D4KX3755 | Mobile Development  |
 
 </div>
