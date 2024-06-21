@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create an account"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:gravity="center_horizontal"
+        android:layout_marginTop="48dp"/>
+
+    <EditText
+        android:id="@+id/editTextFullName"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Full name"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/edit_text_background"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"/>
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Email address"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edit_text_background"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"/>
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:hint="Password"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/edit_text_background"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:inputType="textPassword"/>
+
+    <Button
+        android:id="@+id/btnRegister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Create account"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#4CAF50"
+        android:layout_marginTop="24dp"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/tv_textViewSignIn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Already have an account?"
+        android:gravity="center_horizontal"
+        android:textColor="#4CAF50"
+        android:layout_marginBottom="16dp"/>
+</LinearLayout>

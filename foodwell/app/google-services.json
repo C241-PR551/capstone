@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "382414176017",
+    "project_id": "login-dan-register-109c8",
+    "storage_bucket": "login-dan-register-109c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382414176017:android:0912d077128d8ca23d16b0",
+        "android_client_info": {
+          "package_name": "com.example.foodwell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy4iW3wWNRqwLSex0dtlb71_iRDrx-uRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
